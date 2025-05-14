@@ -1,0 +1,8 @@
+[
+    {
+        "name": "MiProyecto",
+        "supabase_url": "https://udjnkynepsnayevrgkvc.supabase.co",
+        "supabase_key_env": "SUPABASE_KEY",
+        "table_name": "KeepAlive"
+    }
+]
